@@ -7,6 +7,7 @@ Paper: https://repository.tudelft.nl/record/uuid:1181a5fc-1d6e-4c3c-99b7-13499b9
 To replicate experiments from the paper:
 
 Step 1: Download the VOC dataset via Ultralytics (https://docs.ultralytics.com/datasets/detect/voc/)
+
 Step 2: Follow the Experiment Setup: Dataset Preparation
   - Use the 4000-datapoints script to create the test set from voc2007-testset
   - Combine all other datapoints into single folder via images and labels (as per YOLO requirements)
